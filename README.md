@@ -22,7 +22,7 @@ To check out any branch, use the following Git commands:
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/your-repository.git
+git clone https://github.com/Pandaptable/cfg.git
 cd your-repository
 
 # Switch to a specific branch

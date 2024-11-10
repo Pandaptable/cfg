@@ -3,17 +3,17 @@ various game configs (mostly source engine)
 
 ## Games
 
-- [**Counter-Strike: Supremacy**](https://github.com/Pandaptable/cfg/tree/cs-supremacy)
-  
-- [**Classiccounter**](https://github.com/Pandaptable/cfg/tree/classiccounter)
-
 - [**TF2**](https://github.com/Pandaptable/cfg/tree/tf2)
-
-- [**CSGO**](https://github.com/Pandaptable/cfg/tree/csgo)
 
 - [**CS2**](https://github.com/Pandaptable/cfg/tree/cs2)
 
 - [**CSS**](https://github.com/Pandaptable/cfg/tree/css)
+
+- [**CSGO**](https://github.com/Pandaptable/cfg/tree/csgo)
+
+- [**Counter-Strike: Supremacy**](https://github.com/Pandaptable/cfg/tree/cs-supremacy)
+  
+- [**Classiccounter**](https://github.com/Pandaptable/cfg/tree/classiccounter)
 
 ## Usage
 

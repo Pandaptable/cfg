@@ -15,6 +15,8 @@ various game configs (mostly source engine)
   
 - [**Classiccounter**](https://github.com/Pandaptable/cfg/tree/classiccounter)
 
+- - [**JK3**](https://github.com/Pandaptable/cfg/tree/jk3)
+
 ## Usage
 
 To check out any branch, use the following Git commands:

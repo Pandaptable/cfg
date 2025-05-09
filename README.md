@@ -15,7 +15,7 @@ various game configs (mostly source engine)
   
 - [**Classiccounter**](https://github.com/Pandaptable/cfg/tree/classiccounter)
 
-- - [**JK3**](https://github.com/Pandaptable/cfg/tree/jk3)
+- [**JK3**](https://github.com/Pandaptable/cfg/tree/jk3)
 
 ## Usage
 

@@ -1,0 +1,42 @@
+# Root folder
+Japlus
+OpenJK
+TarasciiMadness
+*.dll
+*.exe
+*.so*
+jakey
+*.dat
+steam_appid.txt
+version.inf
+HOW TO PLAY.txt
+
+# Base folder
+*.ase
+map*.pk3
+{JoF}*.pk3
+JOF*.pk3
+vehiclesTribes.pk3
+jamp*.pk3
+japlus*.pk3
+clientPlugin*.pk3
+assets*.pk3
+saber.cfg
+jk2.cfg
+autoreplier.cfg
+admin.cfg
+jaconfig.cfg
+jampconfig.cfg
+
+# Cfg Folder
+eternaljk.cfg
+data.db
+japro*.pk3
+security.log
+players.log
+games.log
+failedRaces.log
+EternalJK/chatlogs
+
+# meow
+login.cfg

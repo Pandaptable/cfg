@@ -1,0 +1,40 @@
+# root cstrike folder
+bin
+cache
+download
+maps
+materials
+media
+resource
+sound
+sound_workshop
+cstrike_pak*.vpk
+*.cache
+demoheader.tmp
+gameinfo.txt
+gamestate.txt
+modelsounds.cache
+stats.txt
+steam.inf
+voice_ban.dt
+
+# custom folder
+custom/readme.txt
+custom/_trikz.bat
+
+# cfg folder
+cfg/360controller.cfg
+cfg/ai.cfg
+cfg/autobuy*default.txt
+cfg/buypresets*.vdf
+cfg/config_default.cfg
+cfg/config.cfg
+cfg/game.cfg
+cfg/mapcycle_default.txt
+cfg/motd_*.txt
+cfg/pure_server_*.txt
+cfg/rebuy_default.txt
+cfg/server_blacklist.txt
+cfg/skill1.cfg
+cfg/trusted_keys_*.txt
+cfg/user.scr

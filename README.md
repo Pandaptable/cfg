@@ -1,2 +1,2 @@
-# cfg
-various game configs (mostly source engine)
+# CSS
+counter striking my source :3

@@ -1,0 +1,1 @@
+x { crosshair { fgcolor_override damage16 } } 

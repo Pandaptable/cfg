@@ -1,0 +1,1 @@
+x { TransparentViewmodelMask { visible 0 } } 

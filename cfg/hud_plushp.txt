@@ -1,0 +1,67 @@
+x { BonusHP { visible 0 } } 
+KeyValues Error: LoadFromBuffer: missing { in file scripts/../_customizations/crosshair/../../../../cfg/hud_crosshairsize.txt
+KeyValues Error: RecursiveLoadFromBuffer:  got EOF instead of keyname in file scripts/../_customizations/crosshair/../../../../cfg/hud_crosshairsize.txt
+}, crosshair, 
+KeyValues Error: RecursiveLoadFromBuffer:  got EOF instead of keyname in file scripts/../_customizations/crosshair/../../../../cfg/hud_crosshairsize.txt
+}, (*crosshair*), 
+KeyValues Error: RecursiveLoadFromBuffer:  got } in key in file scripts/../_customizations/hitmarker/../../../../cfg/hud_hitmarker.txt
+x, hitmarker, 
+--- Missing Vgui material vgui/replay/thumbnails/ammo_bg2
+KeyValues Error: LoadFromBuffer: missing { in file resource/UI/../../_customizations/Plushp/../../../../cfg/hud_Plushp.txt
+(*x*), (*BonusHP*), 
+KeyValues Error: LoadFromBuffer: missing { in file resource/UI/../../_customizations/Plushp/../../../../cfg/hud_Plushp.txt
+(*x*), (*BonusHP*), 
+KeyValues Error: LoadFromBuffer: missing { in file resource/UI/../../_customizations/Plushp/../../../../cfg/hud_Plushp.txt
+(*x*), (*BonusHP*), 
+KeyValues Error: LoadFromBuffer: missing { in file resource/UI/../../_customizations/Plushp/../../../../cfg/hud_Plushp.txt
+(*x*), (*BonusHP*), 
+KeyValues Error: LoadFromBuffer: missing { in file resource/UI/../../_customizations/Plushp/../../../../cfg/hud_Plushp.txt
+(*x*), (*BonusHP*), 
+KeyValues Error: LoadFromBuffer: missing { in file resource/UI/../../_customizations/Plushp/../../../../cfg/hud_Plushp.txt
+(*x*), (*BonusHP*), 
+KeyValues Error: LoadFromBuffer: missing { in file resource/UI/../../_customizations/Plushp/../../../../cfg/hud_Plushp.txt
+(*x*), (*BonusHP*), 
+KeyValues Error: LoadFromBuffer: missing { in file resource/UI/../../_customizations/Plushp/../../../../cfg/hud_Plushp.txt
+(*x*), (*BonusHP*), 
+KeyValues Error: LoadFromBuffer: missing { in file resource/UI/../../_customizations/Plushp/../../../../cfg/hud_Plushp.txt
+(*x*), (*BonusHP*), 
+KeyValues Error: LoadFromBuffer: missing { in file resource/UI/../../_customizations/Plushp/../../../../cfg/hud_Plushp.txt
+(*x*), (*BonusHP*), 
+KeyValues Error: LoadFromBuffer: missing { in file resource/UI/../../_customizations/Plushp/../../../../cfg/hud_Plushp.txt
+(*x*), (*BonusHP*), 
+KeyValues Error: LoadFromBuffer: missing { in file resource/UI/../../_customizations/Plushp/../../../../cfg/hud_Plushp.txt
+(*x*), (*BonusHP*), 
+KeyValues Error: LoadFromBuffer: missing { in file resource/UI/../../_customizations/Plushp/../../../../cfg/hud_Plushp.txt
+(*x*), (*BonusHP*), 
+KeyValues Error: LoadFromBuffer: missing { in file resource/UI/../../_customizations/Plushp/../../../../cfg/hud_Plushp.txt
+(*x*), (*BonusHP*), 
+KeyValues Error: LoadFromBuffer: missing { in file resource/UI/../../_customizations/Plushp/../../../../cfg/hud_Plushp.txt
+(*x*), (*BonusHP*), 
+KeyValues Error: LoadFromBuffer: missing { in file resource/UI/../../_customizations/Plushp/../../../../cfg/hud_Plushp.txt
+(*x*), (*BonusHP*), 
+KeyValues Error: LoadFromBuffer: missing { in file resource/UI/../../_customizations/Plushp/../../../../cfg/hud_Plushp.txt
+(*x*), (*BonusHP*), 
+KeyValues Error: LoadFromBuffer: missing { in file resource/UI/../../_customizations/Plushp/../../../../cfg/hud_Plushp.txt
+(*x*), (*BonusHP*), 
+KeyValues Error: LoadFromBuffer: missing { in file resource/UI/../../_customizations/Plushp/../../../../cfg/hud_Plushp.txt
+(*x*), (*BonusHP*), 
+KeyValues Error: LoadFromBuffer: missing { in file resource/UI/../../_customizations/Plushp/../../../../cfg/hud_Plushp.txt
+(*x*), (*BonusHP*), 
+KeyValues Error: LoadFromBuffer: missing { in file resource/UI/../../_customizations/Plushp/../../../../cfg/hud_Plushp.txt
+(*x*), (*BonusHP*), 
+KeyValues Error: LoadFromBuffer: missing { in file resource/UI/../../_customizations/Plushp/../../../../cfg/hud_Plushp.txt
+(*x*), (*BonusHP*), 
+KeyValues Error: LoadFromBuffer: missing { in file resource/UI/../../_customizations/Plushp/../../../../cfg/hud_Plushp.txt
+(*x*), (*BonusHP*), 
+KeyValues Error: LoadFromBuffer: missing { in file resource/UI/../../_customizations/Plushp/../../../../cfg/hud_Plushp.txt
+(*x*), (*BonusHP*), 
+KeyValues Error: LoadFromBuffer: missing { in file resource/UI/../../_customizations/Plushp/../../../../cfg/hud_Plushp.txt
+(*x*), (*BonusHP*), 
+KeyValues Error: LoadFromBuffer: missing { in file resource/UI/../../_customizations/Plushp/../../../../cfg/hud_Plushp.txt
+(*x*), (*BonusHP*), 
+KeyValues Error: LoadFromBuffer: missing { in file resource/UI/../../_customizations/Plushp/../../../../cfg/hud_Plushp.txt
+(*x*), (*BonusHP*), 
+Failed to load resource/UI/HudItemEffectMeter_Action.res
+resource/UI/HudItemEffectMeter_Action.res missing ContinuousProgressBar field "ItemEffectMeter"
+Im.pala_ killed Biney (100 real no fake) with minigun.
+writing bindings to d:\steamlibrary\steamapps\common\team fortress 2\tf\cfg\hud_lowhp.txt

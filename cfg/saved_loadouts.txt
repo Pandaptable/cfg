@@ -1,0 +1,9 @@
+loadouts.scout.A 
+loadouts.soldier.A 
+loadouts.pyro.A 
+loadouts.demoman.A 
+loadouts.heavy.A 
+loadouts.engineer.A 
+loadouts.medic.A 
+loadouts.sniper.B 
+loadouts.spy.A 

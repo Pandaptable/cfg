@@ -1,0 +1,1 @@
+x { HudPlayerammocontainer_minmode { visible_minmode 1 enabled_minmode 1 } HudPlayerammocontainer_minmodeteam { visible_minmode 1 enabled_minmode 1 } } 

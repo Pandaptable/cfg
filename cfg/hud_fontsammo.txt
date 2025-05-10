@@ -1,0 +1,1 @@
+x { AmmoInClip { font JusticeHalf40 } AmmoInClipShadow { font JusticeLaser40 } AmmoInReserve { font JusticeHalf40 } AmmoInReserveShadow { font JusticeLaser40 } AmmoNoClip { font JusticeHalf40 } AmmoNoClipShadow { font JusticeLaser40 } } 

@@ -1,0 +1,176 @@
+x { PlayerStatusHealthBonusImag { visible 0 } } 
+KeyValues Error: LoadFromBuffer: missing { in file scripts/../_customizations/crosshair/../../../../cfg/hud_crosshairsize.txt
+KeyValues Error: RecursiveLoadFromBuffer:  got EOF instead of keyname in file scripts/../_customizations/crosshair/../../../../cfg/hud_crosshairsize.txt
+}, crosshair, 
+KeyValues Error: RecursiveLoadFromBuffer:  got EOF instead of keyname in file scripts/../_customizations/crosshair/../../../../cfg/hud_crosshairsize.txt
+}, (*crosshair*), 
+KeyValues Error: RecursiveLoadFromBuffer:  got } in key in file scripts/../_customizations/hitmarker/../../../../cfg/hud_hitmarker.txt
+x, hitmarker, 
+--- Missing Vgui material vgui/replay/thumbnails/ammo_bg2
+KeyValues Error: LoadFromBuffer: missing { in file resource/UI/../../_customizations/LowHP/../../../../cfg/hud_lowhp.txt
+(*x*), (*PlayerStatusHealthBonusImag*), 
+KeyValues Error: LoadFromBuffer: missing { in file resource/UI/../../_customizations/LowHP/../../../../cfg/hud_lowhp.txt
+(*x*), (*PlayerStatusHealthBonusImag*), 
+KeyValues Error: LoadFromBuffer: missing { in file resource/UI/../../_customizations/LowHP/../../../../cfg/hud_lowhp.txt
+(*x*), (*PlayerStatusHealthBonusImag*), 
+KeyValues Error: LoadFromBuffer: missing { in file resource/UI/../../_customizations/LowHP/../../../../cfg/hud_lowhp.txt
+(*x*), (*PlayerStatusHealthBonusImag*), 
+KeyValues Error: LoadFromBuffer: missing { in file resource/UI/../../_customizations/LowHP/../../../../cfg/hud_lowhp.txt
+(*x*), (*PlayerStatusHealthBonusImag*), 
+KeyValues Error: LoadFromBuffer: missing { in file resource/UI/../../_customizations/LowHP/../../../../cfg/hud_lowhp.txt
+(*x*), (*PlayerStatusHealthBonusImag*), 
+KeyValues Error: LoadFromBuffer: missing { in file resource/UI/../../_customizations/LowHP/../../../../cfg/hud_lowhp.txt
+(*x*), (*PlayerStatusHealthBonusImag*), 
+KeyValues Error: LoadFromBuffer: missing { in file resource/UI/../../_customizations/LowHP/../../../../cfg/hud_lowhp.txt
+(*x*), (*PlayerStatusHealthBonusImag*), 
+KeyValues Error: LoadFromBuffer: missing { in file resource/UI/../../_customizations/LowHP/../../../../cfg/hud_lowhp.txt
+(*x*), (*PlayerStatusHealthBonusImag*), 
+KeyValues Error: LoadFromBuffer: missing { in file resource/UI/../../_customizations/LowHP/../../../../cfg/hud_lowhp.txt
+(*x*), (*PlayerStatusHealthBonusImag*), 
+KeyValues Error: LoadFromBuffer: missing { in file resource/UI/../../_customizations/LowHP/../../../../cfg/hud_lowhp.txt
+(*x*), (*PlayerStatusHealthBonusImag*), 
+KeyValues Error: LoadFromBuffer: missing { in file resource/UI/../../_customizations/LowHP/../../../../cfg/hud_lowhp.txt
+(*x*), (*PlayerStatusHealthBonusImag*), 
+KeyValues Error: LoadFromBuffer: missing { in file resource/UI/../../_customizations/LowHP/../../../../cfg/hud_lowhp.txt
+(*x*), (*PlayerStatusHealthBonusImag*), 
+KeyValues Error: LoadFromBuffer: missing { in file resource/UI/../../_customizations/LowHP/../../../../cfg/hud_lowhp.txt
+(*x*), (*PlayerStatusHealthBonusImag*), 
+KeyValues Error: LoadFromBuffer: missing { in file resource/UI/../../_customizations/LowHP/../../../../cfg/hud_lowhp.txt
+(*x*), (*PlayerStatusHealthBonusImag*), 
+KeyValues Error: LoadFromBuffer: missing { in file resource/UI/../../_customizations/LowHP/../../../../cfg/hud_lowhp.txt
+(*x*), (*PlayerStatusHealthBonusImag*), 
+KeyValues Error: LoadFromBuffer: missing { in file resource/UI/../../_customizations/LowHP/../../../../cfg/hud_lowhp.txt
+(*x*), (*PlayerStatusHealthBonusImag*), 
+KeyValues Error: LoadFromBuffer: missing { in file resource/UI/../../_customizations/LowHP/../../../../cfg/hud_lowhp.txt
+(*x*), (*PlayerStatusHealthBonusImag*), 
+KeyValues Error: LoadFromBuffer: missing { in file resource/UI/../../_customizations/LowHP/../../../../cfg/hud_lowhp.txt
+(*x*), (*PlayerStatusHealthBonusImag*), 
+KeyValues Error: LoadFromBuffer: missing { in file resource/UI/../../_customizations/LowHP/../../../../cfg/hud_lowhp.txt
+(*x*), (*PlayerStatusHealthBonusImag*), 
+KeyValues Error: LoadFromBuffer: missing { in file resource/UI/../../_customizations/LowHP/../../../../cfg/hud_lowhp.txt
+(*x*), (*PlayerStatusHealthBonusImag*), 
+KeyValues Error: LoadFromBuffer: missing { in file resource/UI/../../_customizations/LowHP/../../../../cfg/hud_lowhp.txt
+(*x*), (*PlayerStatusHealthBonusImag*), 
+KeyValues Error: LoadFromBuffer: missing { in file resource/UI/../../_customizations/LowHP/../../../../cfg/hud_lowhp.txt
+(*x*), (*PlayerStatusHealthBonusImag*), 
+KeyValues Error: LoadFromBuffer: missing { in file resource/UI/../../_customizations/LowHP/../../../../cfg/hud_lowhp.txt
+(*x*), (*PlayerStatusHealthBonusImag*), 
+KeyValues Error: LoadFromBuffer: missing { in file resource/UI/../../_customizations/LowHP/../../../../cfg/hud_lowhp.txt
+(*x*), (*PlayerStatusHealthBonusImag*), 
+KeyValues Error: LoadFromBuffer: missing { in file resource/UI/../../_customizations/LowHP/../../../../cfg/hud_lowhp.txt
+(*x*), (*PlayerStatusHealthBonusImag*), 
+KeyValues Error: LoadFromBuffer: missing { in file resource/UI/../../_customizations/LowHP/../../../../cfg/hud_lowhp.txt
+(*x*), (*PlayerStatusHealthBonusImag*), 
+KeyValues Error: LoadFromBuffer: missing { in file resource/UI/../../_customizations/Plushp/../../../../cfg/hud_Plushp.txt
+(*x*), (*BonusHP*), 
+KeyValues Error: LoadFromBuffer: missing { in file resource/UI/../../_customizations/Plushp/../../../../cfg/hud_Plushp.txt
+(*x*), (*BonusHP*), 
+KeyValues Error: LoadFromBuffer: missing { in file resource/UI/../../_customizations/Plushp/../../../../cfg/hud_Plushp.txt
+(*x*), (*BonusHP*), 
+KeyValues Error: LoadFromBuffer: missing { in file resource/UI/../../_customizations/Plushp/../../../../cfg/hud_Plushp.txt
+(*x*), (*BonusHP*), 
+KeyValues Error: LoadFromBuffer: missing { in file resource/UI/../../_customizations/Plushp/../../../../cfg/hud_Plushp.txt
+(*x*), (*BonusHP*), 
+KeyValues Error: LoadFromBuffer: missing { in file resource/UI/../../_customizations/Plushp/../../../../cfg/hud_Plushp.txt
+(*x*), (*BonusHP*), 
+KeyValues Error: LoadFromBuffer: missing { in file resource/UI/../../_customizations/Plushp/../../../../cfg/hud_Plushp.txt
+(*x*), (*BonusHP*), 
+KeyValues Error: LoadFromBuffer: missing { in file resource/UI/../../_customizations/Plushp/../../../../cfg/hud_Plushp.txt
+(*x*), (*BonusHP*), 
+KeyValues Error: LoadFromBuffer: missing { in file resource/UI/../../_customizations/Plushp/../../../../cfg/hud_Plushp.txt
+(*x*), (*BonusHP*), 
+KeyValues Error: LoadFromBuffer: missing { in file resource/UI/../../_customizations/Plushp/../../../../cfg/hud_Plushp.txt
+(*x*), (*BonusHP*), 
+KeyValues Error: LoadFromBuffer: missing { in file resource/UI/../../_customizations/Plushp/../../../../cfg/hud_Plushp.txt
+(*x*), (*BonusHP*), 
+KeyValues Error: LoadFromBuffer: missing { in file resource/UI/../../_customizations/Plushp/../../../../cfg/hud_Plushp.txt
+(*x*), (*BonusHP*), 
+KeyValues Error: LoadFromBuffer: missing { in file resource/UI/../../_customizations/Plushp/../../../../cfg/hud_Plushp.txt
+(*x*), (*BonusHP*), 
+KeyValues Error: LoadFromBuffer: missing { in file resource/UI/../../_customizations/Plushp/../../../../cfg/hud_Plushp.txt
+(*x*), (*BonusHP*), 
+KeyValues Error: LoadFromBuffer: missing { in file resource/UI/../../_customizations/Plushp/../../../../cfg/hud_Plushp.txt
+(*x*), (*BonusHP*), 
+KeyValues Error: LoadFromBuffer: missing { in file resource/UI/../../_customizations/Plushp/../../../../cfg/hud_Plushp.txt
+(*x*), (*BonusHP*), 
+KeyValues Error: LoadFromBuffer: missing { in file resource/UI/../../_customizations/Plushp/../../../../cfg/hud_Plushp.txt
+(*x*), (*BonusHP*), 
+KeyValues Error: LoadFromBuffer: missing { in file resource/UI/../../_customizations/Plushp/../../../../cfg/hud_Plushp.txt
+(*x*), (*BonusHP*), 
+KeyValues Error: LoadFromBuffer: missing { in file resource/UI/../../_customizations/Plushp/../../../../cfg/hud_Plushp.txt
+(*x*), (*BonusHP*), 
+KeyValues Error: LoadFromBuffer: missing { in file resource/UI/../../_customizations/Plushp/../../../../cfg/hud_Plushp.txt
+(*x*), (*BonusHP*), 
+KeyValues Error: LoadFromBuffer: missing { in file resource/UI/../../_customizations/Plushp/../../../../cfg/hud_Plushp.txt
+(*x*), (*BonusHP*), 
+KeyValues Error: LoadFromBuffer: missing { in file resource/UI/../../_customizations/Plushp/../../../../cfg/hud_Plushp.txt
+(*x*), (*BonusHP*), 
+KeyValues Error: LoadFromBuffer: missing { in file resource/UI/../../_customizations/Plushp/../../../../cfg/hud_Plushp.txt
+(*x*), (*BonusHP*), 
+KeyValues Error: LoadFromBuffer: missing { in file resource/UI/../../_customizations/Plushp/../../../../cfg/hud_Plushp.txt
+(*x*), (*BonusHP*), 
+KeyValues Error: LoadFromBuffer: missing { in file resource/UI/../../_customizations/Plushp/../../../../cfg/hud_Plushp.txt
+(*x*), (*BonusHP*), 
+KeyValues Error: LoadFromBuffer: missing { in file resource/UI/../../_customizations/Plushp/../../../../cfg/hud_Plushp.txt
+(*x*), (*BonusHP*), 
+KeyValues Error: LoadFromBuffer: missing { in file resource/UI/../../_customizations/Plushp/../../../../cfg/hud_Plushp.txt
+(*x*), (*BonusHP*), 
+KeyValues Error: LoadFromBuffer: missing { in file resource/UI/../../_customizations/Plushp/../../../../cfg/hud_Plushp.txt
+(*x*), (*BonusHP*), 
+KeyValues Error: RecursiveLoadFromBuffer:  got NULL key in file resource/UI/../../_customizations/Plushp/../../../../cfg/hud_Plushp.txt
+missing, missing, missing, missing, missing, missing, missing, missing, missing, missing, missing, missing, missing, missing, missing, missing, missing, missing, missing, missing, missing, missing, missing, missing, missing, missing, missing, 
+KeyValues Error: RecursiveLoadFromBuffer:  got EOF instead of keyname in file resource/UI/../../_customizations/Plushp/../../../../cfg/hud_Plushp.txt
+missing, missing, missing, missing, missing, missing, missing, missing, missing, missing, missing, missing, missing, missing, missing, missing, missing, missing, missing, missing, missing, missing, missing, missing, missing, missing, (*missing*), 
+KeyValues Error: RecursiveLoadFromBuffer:  got EOF instead of keyname in file resource/UI/../../_customizations/Plushp/../../../../cfg/hud_Plushp.txt
+missing, missing, missing, missing, missing, missing, missing, missing, missing, missing, missing, missing, missing, missing, missing, missing, missing, missing, missing, missing, missing, missing, missing, missing, missing, (*missing*), (*missing*), 
+KeyValues Error: RecursiveLoadFromBuffer:  got EOF instead of keyname in file resource/UI/../../_customizations/Plushp/../../../../cfg/hud_Plushp.txt
+missing, missing, missing, missing, missing, missing, missing, missing, missing, missing, missing, missing, missing, missing, missing, missing, missing, missing, missing, missing, missing, missing, missing, missing, (*missing*), (*missing*), (*missing*), 
+KeyValues Error: RecursiveLoadFromBuffer:  got EOF instead of keyname in file resource/UI/../../_customizations/Plushp/../../../../cfg/hud_Plushp.txt
+missing, missing, missing, missing, missing, missing, missing, missing, missing, missing, missing, missing, missing, missing, missing, missing, missing, missing, missing, missing, missing, missing, missing, (*missing*), (*missing*), (*missing*), (*missing*), 
+KeyValues Error: RecursiveLoadFromBuffer:  got EOF instead of keyname in file resource/UI/../../_customizations/Plushp/../../../../cfg/hud_Plushp.txt
+missing, missing, missing, missing, missing, missing, missing, missing, missing, missing, missing, missing, missing, missing, missing, missing, missing, missing, missing, missing, missing, missing, (*missing*), (*missing*), (*missing*), (*missing*), (*missing*), 
+KeyValues Error: RecursiveLoadFromBuffer:  got EOF instead of keyname in file resource/UI/../../_customizations/Plushp/../../../../cfg/hud_Plushp.txt
+missing, missing, missing, missing, missing, missing, missing, missing, missing, missing, missing, missing, missing, missing, missing, missing, missing, missing, missing, missing, missing, (*missing*), (*missing*), (*missing*), (*missing*), (*missing*), (*missing*), 
+KeyValues Error: RecursiveLoadFromBuffer:  got EOF instead of keyname in file resource/UI/../../_customizations/Plushp/../../../../cfg/hud_Plushp.txt
+missing, missing, missing, missing, missing, missing, missing, missing, missing, missing, missing, missing, missing, missing, missing, missing, missing, missing, missing, missing, (*missing*), (*missing*), (*missing*), (*missing*), (*missing*), (*missing*), (*missing*), 
+KeyValues Error: RecursiveLoadFromBuffer:  got EOF instead of keyname in file resource/UI/../../_customizations/Plushp/../../../../cfg/hud_Plushp.txt
+missing, missing, missing, missing, missing, missing, missing, missing, missing, missing, missing, missing, missing, missing, missing, missing, missing, missing, missing, (*missing*), (*missing*), (*missing*), (*missing*), (*missing*), (*missing*), (*missing*), (*missing*), 
+KeyValues Error: RecursiveLoadFromBuffer:  got EOF instead of keyname in file resource/UI/../../_customizations/Plushp/../../../../cfg/hud_Plushp.txt
+missing, missing, missing, missing, missing, missing, missing, missing, missing, missing, missing, missing, missing, missing, missing, missing, missing, missing, (*missing*), (*missing*), (*missing*), (*missing*), (*missing*), (*missing*), (*missing*), (*missing*), (*missing*), 
+KeyValues Error: RecursiveLoadFromBuffer:  got EOF instead of keyname in file resource/UI/../../_customizations/Plushp/../../../../cfg/hud_Plushp.txt
+missing, missing, missing, missing, missing, missing, missing, missing, missing, missing, missing, missing, missing, missing, missing, missing, missing, (*missing*), (*missing*), (*missing*), (*missing*), (*missing*), (*missing*), (*missing*), (*missing*), (*missing*), (*missing*), 
+KeyValues Error: RecursiveLoadFromBuffer:  got EOF instead of keyname in file resource/UI/../../_customizations/Plushp/../../../../cfg/hud_Plushp.txt
+missing, missing, missing, missing, missing, missing, missing, missing, missing, missing, missing, missing, missing, missing, missing, missing, (*missing*), (*missing*), (*missing*), (*missing*), (*missing*), (*missing*), (*missing*), (*missing*), (*missing*), (*missing*), (*missing*), 
+KeyValues Error: RecursiveLoadFromBuffer:  got EOF instead of keyname in file resource/UI/../../_customizations/Plushp/../../../../cfg/hud_Plushp.txt
+missing, missing, missing, missing, missing, missing, missing, missing, missing, missing, missing, missing, missing, missing, missing, (*missing*), (*missing*), (*missing*), (*missing*), (*missing*), (*missing*), (*missing*), (*missing*), (*missing*), (*missing*), (*missing*), (*missing*), 
+KeyValues Error: RecursiveLoadFromBuffer:  got EOF instead of keyname in file resource/UI/../../_customizations/Plushp/../../../../cfg/hud_Plushp.txt
+missing, missing, missing, missing, missing, missing, missing, missing, missing, missing, missing, missing, missing, missing, (*missing*), (*missing*), (*missing*), (*missing*), (*missing*), (*missing*), (*missing*), (*missing*), (*missing*), (*missing*), (*missing*), (*missing*), (*missing*), 
+KeyValues Error: RecursiveLoadFromBuffer:  got EOF instead of keyname in file resource/UI/../../_customizations/Plushp/../../../../cfg/hud_Plushp.txt
+missing, missing, missing, missing, missing, missing, missing, missing, missing, missing, missing, missing, missing, (*missing*), (*missing*), (*missing*), (*missing*), (*missing*), (*missing*), (*missing*), (*missing*), (*missing*), (*missing*), (*missing*), (*missing*), (*missing*), (*missing*), 
+KeyValues Error: RecursiveLoadFromBuffer:  got EOF instead of keyname in file resource/UI/../../_customizations/Plushp/../../../../cfg/hud_Plushp.txt
+missing, missing, missing, missing, missing, missing, missing, missing, missing, missing, missing, missing, (*missing*), (*missing*), (*missing*), (*missing*), (*missing*), (*missing*), (*missing*), (*missing*), (*missing*), (*missing*), (*missing*), (*missing*), (*missing*), (*missing*), (*missing*), 
+KeyValues Error: RecursiveLoadFromBuffer:  got EOF instead of keyname in file resource/UI/../../_customizations/Plushp/../../../../cfg/hud_Plushp.txt
+missing, missing, missing, missing, missing, missing, missing, missing, missing, missing, missing, (*missing*), (*missing*), (*missing*), (*missing*), (*missing*), (*missing*), (*missing*), (*missing*), (*missing*), (*missing*), (*missing*), (*missing*), (*missing*), (*missing*), (*missing*), (*missing*), 
+KeyValues Error: RecursiveLoadFromBuffer:  got EOF instead of keyname in file resource/UI/../../_customizations/Plushp/../../../../cfg/hud_Plushp.txt
+missing, missing, missing, missing, missing, missing, missing, missing, missing, missing, (*missing*), (*missing*), (*missing*), (*missing*), (*missing*), (*missing*), (*missing*), (*missing*), (*missing*), (*missing*), (*missing*), (*missing*), (*missing*), (*missing*), (*missing*), (*missing*), (*missing*), 
+KeyValues Error: RecursiveLoadFromBuffer:  got EOF instead of keyname in file resource/UI/../../_customizations/Plushp/../../../../cfg/hud_Plushp.txt
+missing, missing, missing, missing, missing, missing, missing, missing, missing, (*missing*), (*missing*), (*missing*), (*missing*), (*missing*), (*missing*), (*missing*), (*missing*), (*missing*), (*missing*), (*missing*), (*missing*), (*missing*), (*missing*), (*missing*), (*missing*), (*missing*), (*missing*), 
+KeyValues Error: RecursiveLoadFromBuffer:  got EOF instead of keyname in file resource/UI/../../_customizations/Plushp/../../../../cfg/hud_Plushp.txt
+missing, missing, missing, missing, missing, missing, missing, missing, (*missing*), (*missing*), (*missing*), (*missing*), (*missing*), (*missing*), (*missing*), (*missing*), (*missing*), (*missing*), (*missing*), (*missing*), (*missing*), (*missing*), (*missing*), (*missing*), (*missing*), (*missing*), (*missing*), 
+KeyValues Error: RecursiveLoadFromBuffer:  got EOF instead of keyname in file resource/UI/../../_customizations/Plushp/../../../../cfg/hud_Plushp.txt
+missing, missing, missing, missing, missing, missing, missing, (*missing*), (*missing*), (*missing*), (*missing*), (*missing*), (*missing*), (*missing*), (*missing*), (*missing*), (*missing*), (*missing*), (*missing*), (*missing*), (*missing*), (*missing*), (*missing*), (*missing*), (*missing*), (*missing*), (*missing*), 
+KeyValues Error: RecursiveLoadFromBuffer:  got EOF instead of keyname in file resource/UI/../../_customizations/Plushp/../../../../cfg/hud_Plushp.txt
+missing, missing, missing, missing, missing, missing, (*missing*), (*missing*), (*missing*), (*missing*), (*missing*), (*missing*), (*missing*), (*missing*), (*missing*), (*missing*), (*missing*), (*missing*), (*missing*), (*missing*), (*missing*), (*missing*), (*missing*), (*missing*), (*missing*), (*missing*), (*missing*), 
+KeyValues Error: RecursiveLoadFromBuffer:  got EOF instead of keyname in file resource/UI/../../_customizations/Plushp/../../../../cfg/hud_Plushp.txt
+missing, missing, missing, missing, missing, (*missing*), (*missing*), (*missing*), (*missing*), (*missing*), (*missing*), (*missing*), (*missing*), (*missing*), (*missing*), (*missing*), (*missing*), (*missing*), (*missing*), (*missing*), (*missing*), (*missing*), (*missing*), (*missing*), (*missing*), (*missing*), (*missing*), 
+KeyValues Error: RecursiveLoadFromBuffer:  got EOF instead of keyname in file resource/UI/../../_customizations/Plushp/../../../../cfg/hud_Plushp.txt
+missing, missing, missing, missing, (*missing*), (*missing*), (*missing*), (*missing*), (*missing*), (*missing*), (*missing*), (*missing*), (*missing*), (*missing*), (*missing*), (*missing*), (*missing*), (*missing*), (*missing*), (*missing*), (*missing*), (*missing*), (*missing*), (*missing*), (*missing*), (*missing*), (*missing*), 
+KeyValues Error: RecursiveLoadFromBuffer:  got EOF instead of keyname in file resource/UI/../../_customizations/Plushp/../../../../cfg/hud_Plushp.txt
+missing, missing, missing, (*missing*), (*missing*), (*missing*), (*missing*), (*missing*), (*missing*), (*missing*), (*missing*), (*missing*), (*missing*), (*missing*), (*missing*), (*missing*), (*missing*), (*missing*), (*missing*), (*missing*), (*missing*), (*missing*), (*missing*), (*missing*), (*missing*), (*missing*), (*missing*), 
+KeyValues Error: RecursiveLoadFromBuffer:  got EOF instead of keyname in file resource/UI/../../_customizations/Plushp/../../../../cfg/hud_Plushp.txt
+missing, missing, (*missing*), (*missing*), (*missing*), (*missing*), (*missing*), (*missing*), (*missing*), (*missing*), (*missing*), (*missing*), (*missing*), (*missing*), (*missing*), (*missing*), (*missing*), (*missing*), (*missing*), (*missing*), (*missing*), (*missing*), (*missing*), (*missing*), (*missing*), (*missing*), (*missing*), 
+KeyValues Error: RecursiveLoadFromBuffer:  got EOF instead of keyname in file resource/UI/../../_customizations/Plushp/../../../../cfg/hud_Plushp.txt
+missing, (*missing*), (*missing*), (*missing*), (*missing*), (*missing*), (*missing*), (*missing*), (*missing*), (*missing*), (*missing*), (*missing*), (*missing*), (*missing*), (*missing*), (*missing*), (*missing*), (*missing*), (*missing*), (*missing*), (*missing*), (*missing*), (*missing*), (*missing*), (*missing*), (*missing*), (*missing*), 
+Failed to load resource/UI/HudItemEffectMeter_Action.res
+resource/UI/HudItemEffectMeter_Action.res missing ContinuousProgressBar field "ItemEffectMeter"
+writing bindings to d:\steamlibrary\steamapps\common\team fortress 2\tf\cfg\hud_lowammo.txt

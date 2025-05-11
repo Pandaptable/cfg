@@ -27,16 +27,27 @@ autoreplier.cfg
 admin.cfg
 jaconfig.cfg
 jampconfig.cfg
+# for making models </3
+Base/models/players/_humanoid
 
-# Cfg Folder
-eternaljk.cfg
+# cfg shit
 data.db
 japro*.pk3
 security.log
 players.log
 games.log
 failedRaces.log
-EternalJK/chatlogs
+
+# eternaljk folder
+EternalJK
+
+# taystjk folder
+taystjk/chatlogs
+taystjk/demos
+taystjk/maps
+taystjk/settings
+taystjk/default.cfg
+taystjk/eternaljk.cfg
 
 # meow
 login.cfg

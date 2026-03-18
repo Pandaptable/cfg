@@ -25,10 +25,8 @@ To check out any branch, use the following Git commands:
 (or just go to the branch and download a zip...)
 
 ```bash
-# Clone the repository
 git clone https://github.com/Pandaptable/cfg.git
 cd cfg
 
-# Switch to a specific branch
 git checkout <branch-name>
 ```

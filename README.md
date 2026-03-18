@@ -11,6 +11,8 @@ various game configs (mostly source engine)
 
 - [**CSGO**](https://github.com/Pandaptable/cfg/tree/csgo)
 
+- [**Momentum Mod**](https://github.com/Pandaptable/cfg/tree/momentum)
+
 - [**Counter-Strike: Supremacy**](https://github.com/Pandaptable/cfg/tree/cs-supremacy)
   
 - [**Classiccounter**](https://github.com/Pandaptable/cfg/tree/classiccounter)

@@ -1,0 +1,54 @@
+<!-- kv3 encoding:text:version{e21c7f3c-8a33-41c5-9977-a76d3a32aa0d} format:generic:version{7412167c-06e9-4698-aff2-e63eb59037e7} -->
+{
+	main_commands = 
+	[
+		{
+			label = "Paint Scale+"
+			command = "incrementvar mom_paint_scale 0.1 1 0.1"
+		},
+		{
+			label = "Paint Scale-"
+			command = "incrementvar mom_paint_scale 0.1 1 -0.1"
+		},
+		{
+			label = "Red"
+			command = "mom_paint_color 255 0 0 255"
+		},
+		{
+			label = "Green"
+			command = "mom_paint_color 0 255 0 255"
+		},
+		{
+			label = "Blue"
+			command = "mom_paint_color 0 0 255 255"
+		},
+		{
+			label = "Magenta"
+			command = "mom_paint_color 255 0 255 255"
+		},
+		{
+			label = "Aqua"
+			command = "mom_paint_color 0 255 255 255"
+		},
+		{
+			label = "Yellow"
+			command = "mom_paint_color 255 255 0 255"
+		},
+		{
+			label = "Light Pink"
+			command = "mom_paint_color 247 174 204 255"
+		},
+		{
+			label = "Grey"
+			command = "mom_paint_color 128 128 128 255"
+		},
+		{
+			label = "White"
+			command = "mom_paint_color 255 255 255 255"
+		},
+		{
+			label = "Black"
+			command = "mom_paint_color 0 0 0 255"
+		},
+	]
+}

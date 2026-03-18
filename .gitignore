@@ -1,0 +1,15 @@
+mounts.kv
+valve.rc
+video*.txt
+video.bak
+*.vdf
+cvar_defaults.kv3
+config.cfg
+config_default.cfg
+speedometer/
+
+# default menus
+climbtp.kv3
+mapcmds.kv3
+ruler.kv3
+savestate.kv3
